@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1540342259 source:c:\users\mati\desktop\programacion\tp\quicksort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1542664545 source:c:\users\santi\desktop\quicksort\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1542782801 source:c:\users\santi\desktop\ordenamientos s3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"Heapsort.h"
+
+1542664545 source:c:\users\santi\desktop\santos\ordenamientos s3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1542665310 source:c:\users\santi\desktop\ordenamientos s3\src\heapsort.cpp
+	"Heapsort.h"
+
+1542665310 c:\users\santi\desktop\ordenamientos s3\include\heapsort.h
+
+1542665310 source:c:\users\matia\desktop\programacion\tpe-grupo5-santosycoria\semana3\src\heapsort.cpp
+	"Heapsort.h"
+
+1542665310 c:\users\matia\desktop\programacion\tpe-grupo5-santosycoria\semana3\include\heapsort.h
+
+1553167293 source:c:\users\matia\desktop\programacion\tpe-grupo5-santosycoria\semana3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"Heapsort.h"
+
+1553167293 source:c:\users\matías\desktop\programacion\tpe-grupo5-santosycoria\semana3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"Heapsort.h"
+
+1542665310 c:\users\matías\desktop\programacion\tpe-grupo5-santosycoria\semana3\include\heapsort.h
+
+1542665310 source:c:\users\matías\desktop\programacion\tpe-grupo5-santosycoria\semana3\src\heapsort.cpp
+	"Heapsort.h"
+
+1554909353 source:c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"Heapsort.h"
+
+1542665310 c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana3\include\heapsort.h
+
+1554909321 source:c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana3\src\heapsort.cpp
+	"Heapsort.h"
+

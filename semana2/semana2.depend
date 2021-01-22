@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1542731909 source:c:\users\santi\desktop\semana2\main.cpp
+	"Conjuntos.h"
+	"Fila.h"
+	"Listas.h"
+	"Pila.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1542730584 c:\users\santi\desktop\semana2\include\conjuntos.h
+
+1542672164 c:\users\santi\desktop\semana2\include\fila.h
+
+1542672255 c:\users\santi\desktop\semana2\include\listas.h
+	<iostream>
+
+1538403022 c:\users\santi\desktop\semana2\include\pila.h
+
+1542731412 source:c:\users\santi\desktop\semana2\src\conjuntos.cpp
+	"Conjuntos.h"
+	<iostream>
+
+1542672856 source:c:\users\santi\desktop\semana2\src\fila.cpp
+	"Fila.h"
+	<iostream>
+
+1538431530 source:c:\users\santi\desktop\semana2\src\listas.cpp
+	"Listas.h"
+	<iostream>
+
+1538402966 source:c:\users\santi\desktop\semana2\src\pila.cpp
+	"Pila.h"
+	<iostream>
+
+1540071382 source:c:\users\santi\desktop\semana2\src\conjunto.cpp
+	"Conjunto.h"
+	<iostream>
+
+1538699297 c:\users\santi\desktop\semana2\include\conjunto.h
+
+1542731909 source:c:\users\matías\desktop\programacion\tpe-grupo5-santosycoria\semana2\main.cpp
+	"Conjuntos.h"
+	"Fila.h"
+	"Listas.h"
+	"Pila.h"
+	<stdlib.h>
+	<time.h>
+	<iostream>
+
+1542730584 c:\users\matías\desktop\programacion\tpe-grupo5-santosycoria\semana2\include\conjuntos.h
+
+1542672164 c:\users\matías\desktop\programacion\tpe-grupo5-santosycoria\semana2\include\fila.h
+
+1542672255 c:\users\matías\desktop\programacion\tpe-grupo5-santosycoria\semana2\include\listas.h
+	<iostream>
+
+1538403022 c:\users\matías\desktop\programacion\tpe-grupo5-santosycoria\semana2\include\pila.h
+
+1542731412 source:c:\users\matías\desktop\programacion\tpe-grupo5-santosycoria\semana2\src\conjuntos.cpp
+	"Conjuntos.h"
+	<iostream>
+
+1542672856 source:c:\users\matías\desktop\programacion\tpe-grupo5-santosycoria\semana2\src\fila.cpp
+	"Fila.h"
+	<iostream>
+
+1538431530 source:c:\users\matías\desktop\programacion\tpe-grupo5-santosycoria\semana2\src\listas.cpp
+	"Listas.h"
+	<iostream>
+
+1538402966 source:c:\users\matías\desktop\programacion\tpe-grupo5-santosycoria\semana2\src\pila.cpp
+	"Pila.h"
+	<iostream>
+

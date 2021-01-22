@@ -1,0 +1,439 @@
+# depslib dependency file v1.0
+1542747143 source:c:\users\santi\desktop\tpe semana1\main.cpp
+	<iostream>
+	"Circulos.h"
+	"Triangulo.h"
+	"Figura2d.h"
+	"Segmento.h"
+	"AdminFig.h"
+	"Punto.h"
+	"Cuadrado.h"
+
+1542744468 source:c:\users\santi\desktop\tpe semana1\src\adminfig.cpp
+	"AdminFig.h"
+	"Figura2d.h"
+	"Lista.h"
+	<iostream>
+
+1542746236 c:\users\santi\desktop\tpe semana1\include\figura2d.h
+	<iostream>
+
+1538592058 c:\users\santi\desktop\tpe semana1\include\lista.h
+	<iostream>
+
+1542746756 source:c:\users\santi\desktop\tpe semana1\src\circulos.cpp
+	"Circulos.h"
+	<cmath>
+	<Punto.h>
+
+1542743738 c:\users\santi\desktop\tpe semana1\include\circulos.h
+	<cmath>
+	<Punto.h>
+	<Figura2d.h>
+
+1542744683 c:\users\santi\desktop\tpe semana1\include\punto.h
+	<cmath>
+
+1542747726 source:c:\users\santi\desktop\tpe semana1\src\cuadrado.cpp
+	"Cuadrado.h"
+
+1542747720 c:\users\santi\desktop\tpe semana1\include\cuadrado.h
+	"Triangulo.h"
+
+1542747720 c:\users\santi\desktop\tpe semana1\include\triangulo.h
+	"Punto.h"
+	"Figura2d.h"
+	<cmath>
+
+1542743559 source:c:\users\santi\desktop\tpe semana1\src\figura2d.cpp
+	"Figura2d.h"
+
+1539724772 source:c:\users\santi\desktop\tpe semana1\src\lista.cpp
+	"Lista.h"
+	"Figura2d.h"
+	<iostream>
+
+1542744683 source:c:\users\santi\desktop\tpe semana1\src\punto.cpp
+	"Punto.h"
+
+1538423635 source:c:\users\santi\desktop\tpe semana1\src\segmento.cpp
+	"Segmento.h"
+	<Punto.h>
+
+1538423566 c:\users\santi\desktop\tpe semana1\include\segmento.h
+	"Punto.h"
+
+1542747720 source:c:\users\santi\desktop\tpe semana1\src\triangulo.cpp
+	"Triangulo.h"
+
+1542743529 c:\users\santi\desktop\tpe semana1\include\adminfig.h
+	"Figura2d.h"
+	"Lista.h"
+
+1542769847 source:c:\users\mati\desktop\tpe aydai\semana1\main.cpp
+	<iostream>
+	"Circulo.h"
+	"Triangulo.h"
+	"Figura2d.h"
+	"Segmento.h"
+	"AdminFig.h"
+	"Punto.h"
+	"Cuadrado.h"
+
+1542747720 c:\users\mati\desktop\tpe aydai\semana1\include\triangulo.h
+	"Punto.h"
+	"Figura2d.h"
+	<cmath>
+
+1542744683 c:\users\mati\desktop\tpe aydai\semana1\include\punto.h
+	<cmath>
+
+1542769569 c:\users\mati\desktop\tpe aydai\semana1\include\figura2d.h
+	<iostream>
+
+1538423566 c:\users\mati\desktop\tpe aydai\semana1\include\segmento.h
+	"Punto.h"
+
+1542768602 c:\users\mati\desktop\tpe aydai\semana1\include\adminfig.h
+	"Figura2d.h"
+	"Lista.h"
+
+1538592058 c:\users\mati\desktop\tpe aydai\semana1\include\lista.h
+	<iostream>
+
+1542747720 c:\users\mati\desktop\tpe aydai\semana1\include\cuadrado.h
+	"Triangulo.h"
+
+1542768602 source:c:\users\mati\desktop\tpe aydai\semana1\src\adminfig.cpp
+	"AdminFig.h"
+	"Figura2d.h"
+	"Lista.h"
+	<iostream>
+
+1542747726 source:c:\users\mati\desktop\tpe aydai\semana1\src\cuadrado.cpp
+	"Cuadrado.h"
+
+1542769569 source:c:\users\mati\desktop\tpe aydai\semana1\src\figura2d.cpp
+	"Figura2d.h"
+
+1539724772 source:c:\users\mati\desktop\tpe aydai\semana1\src\lista.cpp
+	"Lista.h"
+	"Figura2d.h"
+	<iostream>
+
+1542744683 source:c:\users\mati\desktop\tpe aydai\semana1\src\punto.cpp
+	"Punto.h"
+
+1538423635 source:c:\users\mati\desktop\tpe aydai\semana1\src\segmento.cpp
+	"Segmento.h"
+	<Punto.h>
+
+1542747720 source:c:\users\mati\desktop\tpe aydai\semana1\src\triangulo.cpp
+	"Triangulo.h"
+
+1542768395 source:c:\users\santi\desktop\tpe aydai\semana1\main.cpp
+	<iostream>
+	"Circulo.h"
+	"Triangulo.h"
+	"Figura2d.h"
+	"Segmento.h"
+	"AdminFig.h"
+	"Punto.h"
+	"Cuadrado.h"
+
+1542747720 c:\users\santi\desktop\tpe aydai\semana1\include\triangulo.h
+	"Punto.h"
+	"Figura2d.h"
+	<cmath>
+
+1542744683 c:\users\santi\desktop\tpe aydai\semana1\include\punto.h
+	<cmath>
+
+1542746236 c:\users\santi\desktop\tpe aydai\semana1\include\figura2d.h
+	<iostream>
+
+1538423566 c:\users\santi\desktop\tpe aydai\semana1\include\segmento.h
+	"Punto.h"
+
+1542768602 c:\users\santi\desktop\tpe aydai\semana1\include\adminfig.h
+	"Figura2d.h"
+	"Lista.h"
+
+1538592058 c:\users\santi\desktop\tpe aydai\semana1\include\lista.h
+	<iostream>
+
+1542747720 c:\users\santi\desktop\tpe aydai\semana1\include\cuadrado.h
+	"Triangulo.h"
+
+1542768602 source:c:\users\santi\desktop\tpe aydai\semana1\src\adminfig.cpp
+	"AdminFig.h"
+	"Figura2d.h"
+	"Lista.h"
+	<iostream>
+
+1542753470 source:c:\users\santi\desktop\tpe aydai\semana1\src\circulo.cpp
+	"Circulo.h"
+	<cmath>
+	<Punto.h>
+
+1542753470 c:\users\santi\desktop\tpe aydai\semana1\include\circulo.h
+	<cmath>
+	<Punto.h>
+	<Figura2d.h>
+
+1542747726 source:c:\users\santi\desktop\tpe aydai\semana1\src\cuadrado.cpp
+	"Cuadrado.h"
+
+1542743559 source:c:\users\santi\desktop\tpe aydai\semana1\src\figura2d.cpp
+	"Figura2d.h"
+
+1539724772 source:c:\users\santi\desktop\tpe aydai\semana1\src\lista.cpp
+	"Lista.h"
+	"Figura2d.h"
+	<iostream>
+
+1542744683 source:c:\users\santi\desktop\tpe aydai\semana1\src\punto.cpp
+	"Punto.h"
+
+1538423635 source:c:\users\santi\desktop\tpe aydai\semana1\src\segmento.cpp
+	"Segmento.h"
+	<Punto.h>
+
+1542747720 source:c:\users\santi\desktop\tpe aydai\semana1\src\triangulo.cpp
+	"Triangulo.h"
+
+1542753470 source:c:\users\mati\desktop\tpe aydai\semana1\src\circulo.cpp
+	"Circulo.h"
+	<cmath>
+	<Punto.h>
+
+1542753470 c:\users\mati\desktop\tpe aydai\semana1\include\circulo.h
+	<cmath>
+	<Punto.h>
+	<Figura2d.h>
+
+1542768602 source:c:\users\santi\desktop\semana1\src\adminfig.cpp
+	"AdminFig.h"
+	"Figura2d.h"
+	"Lista.h"
+	<iostream>
+
+1542768602 c:\users\santi\desktop\semana1\include\adminfig.h
+	"Figura2d.h"
+	"Lista.h"
+
+1542769569 c:\users\santi\desktop\semana1\include\figura2d.h
+	<iostream>
+
+1538592058 c:\users\santi\desktop\semana1\include\lista.h
+	<iostream>
+
+1542753470 source:c:\users\santi\desktop\semana1\src\circulo.cpp
+	"Circulo.h"
+	<cmath>
+	<Punto.h>
+
+1542753470 c:\users\santi\desktop\semana1\include\circulo.h
+	<cmath>
+	<Punto.h>
+	<Figura2d.h>
+
+1542744683 c:\users\santi\desktop\semana1\include\punto.h
+	<cmath>
+
+1542747726 source:c:\users\santi\desktop\semana1\src\cuadrado.cpp
+	"Cuadrado.h"
+
+1542747720 c:\users\santi\desktop\semana1\include\cuadrado.h
+	"Triangulo.h"
+
+1542747720 c:\users\santi\desktop\semana1\include\triangulo.h
+	"Punto.h"
+	"Figura2d.h"
+	<cmath>
+
+1542769569 source:c:\users\santi\desktop\semana1\src\figura2d.cpp
+	"Figura2d.h"
+
+1542778357 source:c:\users\santi\desktop\semana1\src\lista.cpp
+	"Lista.h"
+	"Figura2d.h"
+	<iostream>
+	"Punto.h"
+	"Segmento.h"
+
+1542744683 source:c:\users\santi\desktop\semana1\src\punto.cpp
+	"Punto.h"
+
+1538423635 source:c:\users\santi\desktop\semana1\src\segmento.cpp
+	"Segmento.h"
+	<Punto.h>
+
+1542778453 c:\users\santi\desktop\semana1\include\segmento.h
+	"Punto.h"
+
+1542747720 source:c:\users\santi\desktop\semana1\src\triangulo.cpp
+	"Triangulo.h"
+
+1542778356 source:c:\users\santi\desktop\semana1\main.cpp
+	<iostream>
+	"Circulo.h"
+	"Triangulo.h"
+	"Figura2d.h"
+	"Segmento.h"
+	"AdminFig.h"
+	"Punto.h"
+	"Cuadrado.h"
+	"stdlib.h"
+	"time.h"
+
+1542778715 source:c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana1\main.cpp
+	<iostream>
+	"Circulo.h"
+	"Triangulo.h"
+	"Figura2d.h"
+	"Segmento.h"
+	"AdminFig.h"
+	"Punto.h"
+	"Cuadrado.h"
+	"stdlib.h"
+	"time.h"
+
+1542753470 c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana1\include\circulo.h
+	<cmath>
+	<Punto.h>
+	<Figura2d.h>
+
+1542744683 c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana1\include\punto.h
+	<cmath>
+
+1542769569 c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana1\include\figura2d.h
+	<iostream>
+
+1542747720 c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana1\include\triangulo.h
+	"Punto.h"
+	"Figura2d.h"
+	<cmath>
+
+1542778453 c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana1\include\segmento.h
+	"Punto.h"
+
+1542768602 c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana1\include\adminfig.h
+	"Figura2d.h"
+	"Lista.h"
+
+1538592058 c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana1\include\lista.h
+	<iostream>
+
+1542747720 c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana1\include\cuadrado.h
+	"Triangulo.h"
+
+1542768602 source:c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana1\src\adminfig.cpp
+	"AdminFig.h"
+	"Figura2d.h"
+	"Lista.h"
+	<iostream>
+
+1542753470 source:c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana1\src\circulo.cpp
+	"Circulo.h"
+	<cmath>
+	<Punto.h>
+
+1542747726 source:c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana1\src\cuadrado.cpp
+	"Cuadrado.h"
+
+1542769569 source:c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana1\src\figura2d.cpp
+	"Figura2d.h"
+
+1542778357 source:c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana1\src\lista.cpp
+	"Lista.h"
+	"Figura2d.h"
+	<iostream>
+	"Punto.h"
+	"Segmento.h"
+
+1542744683 source:c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana1\src\punto.cpp
+	"Punto.h"
+
+1538423635 source:c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana1\src\segmento.cpp
+	"Segmento.h"
+	<Punto.h>
+
+1542747720 source:c:\users\matías\desktop\programacion\ayda1\tpe-grupo5-santosycoria\semana1\src\triangulo.cpp
+	"Triangulo.h"
+
+1542778715 source:c:\users\matías\desktop\facu\ayda1\tpe-grupo5-santosycoria\semana1\main.cpp
+	<iostream>
+	"Circulo.h"
+	"Triangulo.h"
+	"Figura2d.h"
+	"Segmento.h"
+	"AdminFig.h"
+	"Punto.h"
+	"Cuadrado.h"
+	"stdlib.h"
+	"time.h"
+
+1542753470 c:\users\matías\desktop\facu\ayda1\tpe-grupo5-santosycoria\semana1\include\circulo.h
+	<cmath>
+	<Punto.h>
+	<Figura2d.h>
+
+1542744683 c:\users\matías\desktop\facu\ayda1\tpe-grupo5-santosycoria\semana1\include\punto.h
+	<cmath>
+
+1542769569 c:\users\matías\desktop\facu\ayda1\tpe-grupo5-santosycoria\semana1\include\figura2d.h
+	<iostream>
+
+1542747720 c:\users\matías\desktop\facu\ayda1\tpe-grupo5-santosycoria\semana1\include\triangulo.h
+	"Punto.h"
+	"Figura2d.h"
+	<cmath>
+
+1559925885 c:\users\matías\desktop\facu\ayda1\tpe-grupo5-santosycoria\semana1\include\segmento.h
+	"Punto.h"
+
+1542768602 c:\users\matías\desktop\facu\ayda1\tpe-grupo5-santosycoria\semana1\include\adminfig.h
+	"Figura2d.h"
+	"Lista.h"
+
+1538592058 c:\users\matías\desktop\facu\ayda1\tpe-grupo5-santosycoria\semana1\include\lista.h
+	<iostream>
+
+1542747720 c:\users\matías\desktop\facu\ayda1\tpe-grupo5-santosycoria\semana1\include\cuadrado.h
+	"Triangulo.h"
+
+1542768602 source:c:\users\matías\desktop\facu\ayda1\tpe-grupo5-santosycoria\semana1\src\adminfig.cpp
+	"AdminFig.h"
+	"Figura2d.h"
+	"Lista.h"
+	<iostream>
+
+1542753470 source:c:\users\matías\desktop\facu\ayda1\tpe-grupo5-santosycoria\semana1\src\circulo.cpp
+	"Circulo.h"
+	<cmath>
+	<Punto.h>
+
+1542747726 source:c:\users\matías\desktop\facu\ayda1\tpe-grupo5-santosycoria\semana1\src\cuadrado.cpp
+	"Cuadrado.h"
+
+1542769569 source:c:\users\matías\desktop\facu\ayda1\tpe-grupo5-santosycoria\semana1\src\figura2d.cpp
+	"Figura2d.h"
+
+1542778357 source:c:\users\matías\desktop\facu\ayda1\tpe-grupo5-santosycoria\semana1\src\lista.cpp
+	"Lista.h"
+	"Figura2d.h"
+	<iostream>
+	"Punto.h"
+	"Segmento.h"
+
+1542744683 source:c:\users\matías\desktop\facu\ayda1\tpe-grupo5-santosycoria\semana1\src\punto.cpp
+	"Punto.h"
+
+1538423635 source:c:\users\matías\desktop\facu\ayda1\tpe-grupo5-santosycoria\semana1\src\segmento.cpp
+	"Segmento.h"
+	<Punto.h>
+
+1542747720 source:c:\users\matías\desktop\facu\ayda1\tpe-grupo5-santosycoria\semana1\src\triangulo.cpp
+	"Triangulo.h"
+
